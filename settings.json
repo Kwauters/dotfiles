@@ -1,0 +1,15 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark - C++",
+    "workbench.sideBar.location": "right",
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "telemetry.telemetryLevel": "crash",
+    "telemetry.feedback.enabled": false,
+    "latex-workshop.format.fixMath.enabled": true,
+    "latex-workshop.format.fixQuotes.enabled": true,
+    "latex-workshop.formatting.latex": "latexindent",
+    "harper.dialect": "American",
+    "diffEditor.ignoreTrimWhitespace": false
+}

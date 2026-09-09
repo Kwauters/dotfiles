@@ -1,0 +1,20 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Kobe Wauters
+	email = kobewauters@gmail.com
+[core]
+	editor = code --wait
+#    editor = vim      
+    autocrlf = input
+[init]
+    defaultBranch = main
+[color]
+	ui = auto
+[fetch]
+	prune = true
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
